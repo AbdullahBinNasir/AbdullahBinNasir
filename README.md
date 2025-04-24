@@ -1,5 +1,5 @@
 ### Hi there 👋 I Am Abdullah Bin Nasir 
-I’m a Full Stack Developer with strong experience in HTML, CSS, JavaScript, React, and Node.js, and I’m passionate about building clean, efficient, and user-centric web applications. I’m a quick and adaptive learner, always eager to pick up new tools and technologies as needed.
+I’m a Full Stack Developer with strong experience in HTML, CSS, JavaScript, PHP, MYSQL, React, and Node.js, and I’m passionate about building clean, efficient, and user-centric web applications. I’m a quick and adaptive learner, always eager to pick up new tools and technologies as needed.
 
 Feel free to tweak it to better suit your style or emphasize specific aspects of your 
 
