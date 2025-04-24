@@ -1,5 +1,5 @@
 ### Hi there 👋 I Am Abdullah Bin Nasir 
-A Passionate front-end developer eager to blend creativity with technical expertise. Committed to crafting engaging user experiences and dedicated to contributing to open-source projects. Seeking opportunities to collaborate and make a meaningful impact in the tech community.Skilled in HTML, CSS, and JavaScript, with a focus on crafting beautiful and functional designs. Passionate about learning and creating innovative web experiences that captivate users.
+I’m a Full Stack Developer with strong experience in HTML, CSS, JavaScript, React, and Node.js, and I’m passionate about building clean, efficient, and user-centric web applications. I’m a quick and adaptive learner, always eager to pick up new tools and technologies as needed.
 
 Feel free to tweak it to better suit your style or emphasize specific aspects of your 
 
