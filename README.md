@@ -1,19 +1,33 @@
-### Hi there 👋 I Am Abdullah Bin Nasir 
-I’m a Full Stack Developer with strong experience in HTML, CSS, JavaScript, PHP, MYSQL, React, and Node.js, and I’m passionate about building clean, efficient, and user-centric web applications. I’m a quick and adaptive learner, always eager to pick up new tools and technologies as needed.
+# Hi there 👋, I'm Abdullah Bin Nasir  
 
-Feel free to tweak it to better suit your style or emphasize specific aspects of your 
+🚀 **Full Stack Developer | Mobile App Developer**  
 
-<!--
-**AbdullahBinNasir/AbdullahBinNasir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m passionate about building **clean, efficient, and user-focused** Web & Mobile applications.  
+With hands-on experience in **Front-end, Back-end, and Mobile development**, I enjoy turning complex problems into simple, beautiful, and intuitive solutions.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on Java Script
-- 🌱 I’m currently learning Mern Stack
-- 👯 I’m looking to collaborate on Open Source
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: a.dshamsi2207@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, React, Next.js *(learning)*  
+- **Backend:** PHP, Node.js, Express.js  
+- **Databases:** MySQL, MongoDB  
+- **Mobile Development:** Flutter, Dart, React Native *(learning)*  
+- **Other:** REST APIs, JSON, Git/GitHub  
+
+---
+
+## 🌱 Currently
+- 🔭 Working on: **JavaScript & Web Projects**  
+- 🌱 Learning: **React Native & Next.js**  
+- 👯 Open to collaborate on: **Open Source & Real-world Projects**  
+
+---
+
+## 📫 Connect with Me
+- ✉️ Email: [a.dshamsi2207@gmail.com](mailto:a.dshamsi2207@gmail.com)  
+- 💼 LinkedIn: *(add your LinkedIn here)*  
+- 🖥️ Portfolio: *(if you have one, link here)*  
+
+---
+
+⭐ **Fun Fact:** I’m a quick and adaptive learner, always exploring new technologies to stay ahead!  
