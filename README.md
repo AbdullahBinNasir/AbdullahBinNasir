@@ -25,8 +25,7 @@ With hands-on experience in **Front-end, Back-end, and Mobile development**, I e
 
 ## 📫 Connect with Me
 - ✉️ Email: [a.dshamsi2207@gmail.com](mailto:a.dshamsi2207@gmail.com)  
-- 💼 LinkedIn: *(add your LinkedIn here)*  
-- 🖥️ Portfolio: *(if you have one, link here)*  
+- 💼 LinkedIn: www.linkedin.com/in/abdullah-nasir-289763292  
 
 ---
 
